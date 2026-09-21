@@ -102,7 +102,7 @@ These features capture both **short-term price momentum and seasonal behaviour**
 | Machine Learning | Scikit-learn             |
 | Deep Learning    | PyTorch                  |
 | Explainability   | SHAP                     |
-| Development      | Jupyter Notebook         |
+| Development      | Jupyter Notebook, Google Colab         |
 
 ## Project Goals
 
