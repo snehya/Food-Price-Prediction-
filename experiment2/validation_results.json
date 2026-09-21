@@ -1,0 +1,7 @@
+{
+  "date_not_null": true,
+  "no_duplicates": true,
+  "non_negative_prices": true,
+  "required_columns_present": true,
+  "completeness_ge_90_percent": true
+}
